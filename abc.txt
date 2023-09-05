@@ -1,2 +1,1 @@
-created a new file
-made some changes from github.
+Check whether it builds automatically
