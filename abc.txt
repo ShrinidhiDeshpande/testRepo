@@ -1,1 +1,14 @@
 Check whether it builds automatically
+/p:DeployOnBuild=true  
+
+/p:DeployDefaultTarget=WebPublish  
+
+/p:WebPublishMethod=FileSystem  
+
+/p:SkipInvalidConfigurations=true  
+
+/p:Configuration=Release  
+
+/p:DeleteExistingFiles=True  
+
+/p:publishUrl=c:\inetpub\wwwroot 
